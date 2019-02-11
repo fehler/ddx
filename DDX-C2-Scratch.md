@@ -8,6 +8,8 @@ A Practical Guide to User Experience Design
 
 This content summarises some of what we’ve been covering in the first couple of weeks and provides additional thoughts and tools.
 
+**\/\* Content within comments (\/\* … \*\/) are notes to myself. \*\/**
+
 The tools will follow as I refine them, I’ll also add some examples, inspired by our ‘UX School’ project. I’ll be adding to this file over the next few days, so keep an eye on this repo.
 
 
@@ -17,7 +19,7 @@ The tools will follow as I refine them, I’ll also add some examples, inspired 
 Chapter 2: Establishing an Effective Strategy
 ---------------------------------------------
 
-<p style="background-color: yellow;">This content still needs a bit of tidying, but it’s a useful start. At the moment I’m pulling together content across various locations: my folder, my slides, my notes in Bear and Simplenote, and my sketchbook.</p>
+**\/\* This content still needs a bit of tidying, but it’s a useful start. At the moment I’m pulling together content across various locations: my folder, my slides, my notes in Bear and Simplenote, and my sketchbook. \*\/**
 
 An effective strategy doesn’t appear out of nowhere, it comes from research, and your research needs to be undertaken in a considered and systematic manner. By embracing a systematic approach to your strategy research you can build it in as a core part of your UX process, saving time and money, and leading to better outcomes.
 
