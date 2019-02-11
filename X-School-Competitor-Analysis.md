@@ -24,6 +24,8 @@ It could be argued that marketing is beyond the scope of a typical project, but 
 I’ve gathered together my research below (and I’ll be adding to this with a visually-driven slidedeck shortly). This isn’t exhaustive research. If I were doing this for a client, I’d go into **much more depth**.
 
 
+- - -
+
 
 CareerFoundry
 -------------
@@ -86,6 +88,8 @@ Lastly, there’s an offer of a Free Webinar: “How to become a UX designer eve
 
 The overall messaging emphasises that almost anyone can take a course with CareerFoundry and change career.
 
+
+- - -
 
 
 Butter Academy
@@ -186,6 +190,7 @@ TK
 TK
 
 
+- - -
 
 
 Treehouse
@@ -218,7 +223,7 @@ TK
 TK
 
 
-
+- - -
 
 
 FutureLearn
