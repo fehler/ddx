@@ -317,39 +317,84 @@ FutureLearn
 
 ### Voice and Tone
 
+FutureLearn has a wider scope than the other examples (which are UX or digital-focused). I’ve included it because the structure of the content is very good and the branding and overall aesthetic is considered.
+
 Futurelearn pitches itself as follows:
 
 > Learn new skills, pursue your interests, advance your career.
 
+Although, “advance your career,” is a part of Futurelearn’s offering, the overall emphasis is on knowledge acquisition for the pleasure (learn new skills and pursue your interests).
+
+The site is very well-organised and everything is easily accessible. The voice and tone – perhaps because the content at FutureLearn was originally drawn from universities – is less ‘career change’ focused and more focused on learning for learning’s sake.
+
+The ‘Digital Skills: User Experience’ course describes itself as follows:
+
+> Learn about why user experience (UX) is important, the research and design basics, and the tools and testing techniques used in UX.
+
+Partners – primarily universities – are featured prominently on the home page, with featured partners including: Monash University; Middlesex University, London; and University of Basel. The partnership copy is focused on care and attention to detail of course design:
+
+> Our 158 partners carefully design each online course, so that you can study with them no matter where you are.
+
 
 ### Branding and Aesthetic
 
-The branding is clean and consistent with a very strong colour palette (pink) that’s used throughout the site. The iconography is very good, as is the typography, which is clean and consistent.
+The branding is clean and consistent with a very strong colour palette (pink) that’s used throughout the site. This colour palette, coupled with image overlays, ensures that the content – even though it’s from a wide range of content creators – looks consistent.
+
+The iconography is very good, as is the typography, which is clean and consistent and set in a sans serif (Europa).
 
 Look at the design patterns that are used, with different ‘modular blocks’ that are repeated:
 
 + Feature Courses
 + Smaller Menus of Courses
 
-
-### Course Content
-
-Look at the way course content is surfaced:
+Course content is surfaced in different ways, again, this eases users into the platform’s extensive array of content:
 
 + Popular Course
 + Important Topic
 
-Although the content is considerable users are **eased in to it** with featured courses, with an accompanying ‘View all course categories’ link.
+Although there is a considerable volume of content, users are **eased in to it** with featured courses, with an accompanying ‘View all course categories’ link.
+
+
+### Course Content
+
+Course content is organised by Category and Courses and the courses are broken down into three sub-sections (presumably indicating the length of time it takes to complete a course):
+
++ Short Courses
++ In-depth Programs
++ Online Degrees
+
+These course sub-sections suggest different motivations for users, with: short courses focused on learning new skills; in-depth programmes focused on professional or academic accreditation; and online degrees promoted as a ‘pay-as-you-learn’ approach to building a degree.
+
+The ‘Digital Skills: User Experience’ course, published by Accenture, is broken down by week as follows:
+
++ Week 1: Why is user experience important?
++ Week 2: User experience basics.
++ Week 3: Tools and testing.
+
+Each of these weeks is further broken down, but – overall – this is one of the shortest courses.
+
+Additionally, Accenture offer a broader range of ‘Digital Skills’ courses, including ‘Digital Marketing’, ‘Web Analytics’ and ‘Social Media’:
+
+	https://www.futurelearn.com/career-advice/grow-your-digital-skills
 
 
 ### Pricing
 
-TK
+Courses are offered for free and with an upgrade.
+
++ Free: Time-limited access, including: articles, videos, peer review and quizzes)
++ Upgraded: Unlimited access, including: all of the above, plus access to course tests (if there are any) and a ‘Certificate of Achievement’.
+
+The ‘Digital Skills: User Experience’ course, published by Accenture, includes a free digital upgrade, so clearly partners can choose to waive upgrade fees.
 
 
 ### Marketing
 
-TK
+The site features a ‘Support’ link in the bottom right-hand corner, but this is easy to overlook and isn’t very prominent. The support form that pops up asks for: name (optional), email address, a query box, and allows for uploading attachments.
+
+It was unclear – especially with the uploading attachments option – what this support popup is for.
+
+There are a number of calls to action designed to engage users, including a mailing list and ‘join free’ and ‘join now’ buttons.
 
 
 

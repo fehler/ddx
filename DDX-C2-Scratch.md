@@ -146,7 +146,7 @@ By undertaking a comprehensive analysis, you'll uncover a wealth of material you
 
 Looking at our case study will help paint a picture of the typical research I'd undertake. I usually break this into two deliverables:
 
-1. A spreadsheet that focuses on data; and
+1. A Google Document or Spreadsheet that focuses on data; and
 2. A slidedeck that gathers visual inspiration we can learn from.
 
 X School is focused on teaching user experience design, but from a digital-first (non-university) perspective. After some general research into competitors focused on digital learning, I've focused on the following five competitors:
