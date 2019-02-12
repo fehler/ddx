@@ -146,7 +146,7 @@ By undertaking a comprehensive analysis, you'll uncover a wealth of material you
 
 Looking at our case study will help paint a picture of the typical research I'd undertake. I usually break this into two deliverables:
 
-1. A Google Document or Spreadsheet that focuses on data; and
+1. A Google Document or a Google Spreadsheet that focuses on design and market analysis; and
 2. A slidedeck that gathers visual inspiration we can learn from.
 
 X School is focused on teaching user experience design, but from a digital-first (non-university) perspective. After some general research into competitors focused on digital learning, I've focused on the following five competitors:
@@ -159,7 +159,9 @@ X School is focused on teaching user experience design, but from a digital-first
 
 Although FutureLearn's focus isn't specifically on UX education, I've included it as an example of a digital learning platform that's focused on the wider field of education.
 
-[See my initial research here.](#)
+![Competitor Analysis](screenshots/competitor-analysis.png)
+
+[See my initial research here.](https://github.com/fehler/ddx/blob/master/X-School-Competitor-Analysis.md)
 
 
 
