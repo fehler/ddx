@@ -32,7 +32,7 @@ CareerFoundry
 
 ![CareerFoundry](screenshots/careerfoundry.png)
 
-`[https://careerfoundry.com](https://careerfoundry.com)`
+[https://careerfoundry.com](https://careerfoundry.com)
 
 ### Voice and Tone
 
@@ -97,7 +97,7 @@ Butter Academy
 
 ![Butter Academy](screenshots/butteracademy.png)
 
-`[http://butteracademy.com](http://butteracademy.com)`
+[http://butteracademy.com](http://butteracademy.com)
 
 ### Voice and Tone
 
@@ -157,7 +157,7 @@ SuperHi
 
 ![SuperHi](screenshots/superhi.png)
 
-`[https://www.superhi.com](https://www.superhi.com)`
+[https://www.superhi.com](https://www.superhi.com)
 
 ### Voice and Tone
 
@@ -230,7 +230,7 @@ Treehouse
 
 ![Treehouse](screenshots/treehouse.png)
 
-`[https://teamtreehouse.com](https://teamtreehouse.com)`
+[https://teamtreehouse.com](https://teamtreehouse.com)
 
 ### Voice and Tone
 
@@ -296,6 +296,8 @@ User Experience (UX) Techdegree
 
 Treehouse offers a Free Trial, thereafter it’s $25 / Month. To ‘claim’ your free trial you need to leave your first name, last name, email address and a password, so you’re presumably setting up an account in the process. This helps onboard potential users and might lead to subscribers.
 
+The site has a blog, which covers a wide range of subjects, so content marketing is a considered part of the marketing mix.
+
 Treehouse offers an affiliate programme that is designed to drive subscribers.
 
 There’s a modal popup that appears after a set period of time designed to drive free trials. The language used is, again, very focused on the career possibilities that Treehouse might lead to:
@@ -311,7 +313,7 @@ FutureLearn
 
 ![FutureLearn](screenshots/futurelearn.png)
 
-`[https://www.futurelearn.com](https://www.futurelearn.com)
+[https://www.futurelearn.com](https://www.futurelearn.com)
 
 ### Voice and Tone
 
