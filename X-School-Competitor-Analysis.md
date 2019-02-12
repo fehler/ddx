@@ -32,7 +32,7 @@ CareerFoundry
 
 ![CareerFoundry](screenshots/careerfoundry.png)
 
-	[https://careerfoundry.com](https://careerfoundry.com)
+`[https://careerfoundry.com](https://careerfoundry.com)`
 
 ### Voice and Tone
 
@@ -97,7 +97,7 @@ Butter Academy
 
 ![Butter Academy](screenshots/butteracademy.png)
 
-	[http://butteracademy.com](http://butteracademy.com)
+`[http://butteracademy.com](http://butteracademy.com)`
 
 ### Voice and Tone
 
@@ -137,7 +137,7 @@ Course content is delivered through a combination of video lessons (18) and prac
 
 ### Pricing
 
-+ $195
++ $195 (One Off Payment)
 
 
 ### Marketing
@@ -157,7 +157,7 @@ SuperHi
 
 ![SuperHi](screenshots/superhi.png)
 
-	[https://www.superhi.com](https://www.superhi.com)
+`[https://www.superhi.com](https://www.superhi.com)`
 
 ### Voice and Tone
 
@@ -208,7 +208,7 @@ The focus is on using Figma for prototyping, which is: free, cloud-based and ava
 
 ### Pricing (Intro to User Experience Design)
 
-$149
++ $149 (One Off Payment)
 
 
 ### Marketing
@@ -230,31 +230,77 @@ Treehouse
 
 ![Treehouse](screenshots/treehouse.png)
 
-	[https://teamtreehouse.com](https://teamtreehouse.com)
+`[https://teamtreehouse.com](https://teamtreehouse.com)`
 
 ### Voice and Tone
 
-TK
+The emphasis is very much on career change, with the strapline as follows:
+
+> Learn to code, gain a new skill, get a new job.
+
+Data is used upfront to build believability in the brand:
+
++ 300+ Courses
++ 278 Workshops
++ 23 Topics
++ 50k+ Current students
+
+This gives the impression of an all you can eat buffet that might be overwhelming for potential users. (The Techdegrees (see below) provide a little more of a structured curriculum.)
+
+There’s a very prominent focus on Treehouse Partnerships with Google, IBM, Amazon and Microsoft featured. (Presumably these are content partnerships?)
+
+On the UX course, the language used is aspirational:
+
++ …start a new career as a UX Designer, who typically earns a starting salary of $75K a year.
 
 
 ### Branding and Aesthetic
 
-TK
+The branding is built around a suite of colours (presumably colour-coding by content type?) and a friendly, rounded typeface (Gotham Rounded).
+
+The site features a mix of illustrations and photographs (which look like photographs of real users). There’s an animated illustrated video on the home page, which gives a flavour of the course content and the different types of content available.
 
 
 ### Course Content
 
-TK
+Treehouse offers ‘Techdegrees’. The use of language like ‘degrees’ (even though this degree doesn’t appear to be affiliated with a university) helps to build a sense that this is a worthwhile ‘qualification’ which has value.
+
+> The Treehouse Techdegree is a structured, online learning program that will prepare you for a career in the tech industry.
+
+I focused on the User Experience (UX) Techdegree. There’s no URL for this, the details appear in an overlay, I think a URL – that you could bookmark and share – would be better. Content is structured around ‘Units’ as opposed to ‘Lessons’ or ‘Modules’.
+
+Unit 1: Critique a T-shirt Website
+Unit 2: Complete a Wireframe
+Unit 3: Pet Adoption Signup Form
+Init 4: Prototyping a Weather App
+
+At the bottom of this list, there’s a ‘learn more’ link that takes you to a URL:
+
+	https://teamtreehouse.com/techdegree/ux-design
+
+It would be easier for users if there was a link directly to this URL, bypassing the modal overlay.
+
+This page is very comprehensive, with testimonials, a breakdown of information and a list of 15 Teachers and Guest Teachers. Confusingly the price for this Techdegree isn’t the $25 / Month listed on the home page, but $199 / Month.
 
 
 ### Pricing
 
-TK
+This was a little confusing, the home page lists $25 / Month, but the UX Techdegree seems to be $199 / Month. I think this could be expressed a little more clearly. I couldn’t find a pricing page, something like that might be useful to provide an overview of prices.
+
+User Experience (UX) Techdegree
+
++ $199 / Month
 
 
 ### Marketing
 
-TK
+Treehouse offers a Free Trial, thereafter it’s $25 / Month. To ‘claim’ your free trial you need to leave your first name, last name, email address and a password, so you’re presumably setting up an account in the process. This helps onboard potential users and might lead to subscribers.
+
+Treehouse offers an affiliate programme that is designed to drive subscribers.
+
+There’s a modal popup that appears after a set period of time designed to drive free trials. The language used is, again, very focused on the career possibilities that Treehouse might lead to:
+
+> With average starting salaries ranging from $40-75K a year, working in software development isn’t a job — it’s a career.
 
 
 - - -
@@ -265,7 +311,7 @@ FutureLearn
 
 ![FutureLearn](screenshots/futurelearn.png)
 
-	https://www.futurelearn.com
+`[https://www.futurelearn.com](https://www.futurelearn.com)
 
 ### Voice and Tone
 
