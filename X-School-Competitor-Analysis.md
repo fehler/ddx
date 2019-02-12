@@ -32,7 +32,7 @@ CareerFoundry
 
 ![CareerFoundry](screenshots/careerfoundry.png)
 
-	https://careerfoundry.com/
+	[https://careerfoundry.com](https://careerfoundry.com)
 
 ### Voice and Tone
 
@@ -97,7 +97,7 @@ Butter Academy
 
 ![Butter Academy](screenshots/butteracademy.png)
 
-	http://butteracademy.com
+	[http://butteracademy.com](http://butteracademy.com)
 
 ### Voice and Tone
 
@@ -152,42 +152,74 @@ There’s a prominent ‘Get More Info’ call to action button that leads to a 
 - - -
 
 
-**ANALYSIS NEEDS TO BE FINISHED BELOW HERE.**
-
-
-- - -
-
-
 SuperHi
 -------
 
 ![SuperHi](screenshots/superhi.png)
 
-	https://www.superhi.com/
+	[https://www.superhi.com](https://www.superhi.com)
 
 ### Voice and Tone
 
-TK
+Although SuperHi is primarily focused on building websites, it also has a [UX course][SHUX]. The language used is focused on empowerment:
+
+> Everything you need to create well-designed digital projects that you have full control over. No templates and no dull lessons.
+
+There’s an emphasis on support, with: “Support that actually helps.” Support seems to be through a Slack community with a focus on, “learning to code together.” Support’s also provided by a worldwide team.
+
++ Support that actually helps.
++ Real-world projects you’ll want to create and remix.
++ Structured, and flexible.
+
+There’s a strong emphasis on reaching goals quickly:
+
+> Our course is practical, unlike other programs that take forever before you make your first real-world project.
+
+From a voice and tone perspective, the focus is on the creative industries, stressing that the course isn’t a computer science lecture. This is echoed in the design, which is colourful and friendly.
 
 
 ### Branding and Aesthetic
 
-TK
+The branding and aesthetic is built around a strong, bright colour palette with a bright blue accent colour. The look and feel – which is built around illustrations – is friendly and approachable.
+
+Course outlines are provided via branded PDFs, which help to underpin the brand.
 
 
 ### Course Content
 
-TK
+To get the full UX syllabus users need to sign up by leaving an email address. Leaving your email address immediately takes you to a PDF of the curriculum, there’s no need to open your email client.
+
+This is beneficial for a couple of reasons:
+
+1. SuperHi are able to gather emails for marketing; and
+2. Potential users get to see the syllabus right away without an annoying trip to their email client.
+
+The UX course is a, “go-at-your-own-pace short course,” with 8+ hours of content, so it’s quite focused. It’s built around ‘Lessons’ as opposed to ‘Modules’ and is broken down as follows:
+
++ Lesson 1: Introduction to UX
++ Lesson 2: Project: Marketplace All
++ Lesson 3: Research
++ Lesson 4: Analysis
++ Lesson 5: Wireframing (Mistakenly labelled ‘Lesson 4’.)
++ Lesson 6: Prototyping
+
+The focus is on using Figma for prototyping, which is: free, cloud-based and available for macOS and Windows.
 
 
-### Pricing
+### Pricing (Intro to User Experience Design)
 
-TK
+$149
 
 
 ### Marketing
 
-TK
+The site has a First Steps Guide, which offers “seven days of free coding wisdom”, delivered (via screencasts, presumably) by SuperHi’s founder Rik Lomas. The language used emphasises the number of past students:
+
+> Did we mention tens of thousands of people have already read the guide and it’s totally free?
+
+The reference to ‘thousands’ builds believability.
+
+The site also uses Intercom to allow potential users to get in touch with the team, encouraging users to leave contact details.
 
 
 - - -
@@ -197,6 +229,8 @@ Treehouse
 ---------
 
 ![Treehouse](screenshots/treehouse.png)
+
+	[https://teamtreehouse.com](https://teamtreehouse.com)
 
 ### Voice and Tone
 
@@ -268,3 +302,10 @@ TK
 ### Marketing
 
 TK
+
+
+
+<!-- Links -->
+
+
+[SHUX]: https://www.superhi.com/courses/introduction-to-user-experience-design
